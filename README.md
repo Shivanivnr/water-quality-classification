@@ -20,13 +20,18 @@ To classify water as potable (safe) or non-potable (unsafe).
 - Random Forest
 - Support Vector Machine (SVM)
 
+## Accuracy of Kernels in SVM
+- Linear: 62.80%
+- Radial Basis Function: 69.20%
+- polynomial: 63.87%
+
 ## Results
-- Random Forest Accuracy: 67.98%
-- SVM Accuracy: 69.21%
+- Random Forest Accuracy: 69.96%
+- SVM Accuracy: 69.20%
 
 ## Key Insights
 - Feature engineering improved model performance
-- SVM performed better than Random Forest
+- Random Forest performed better than SVM
 
 ## Future Work
 - Improve accuracy using advanced models
